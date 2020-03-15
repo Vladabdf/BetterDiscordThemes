@@ -2003,7 +2003,7 @@
 }
     /* */
     html[style] head ~ body[style] > #app-mount.appMount-3lHmkl .wordmark-2iDDfm::after {
-        content: "Dusk to Dawn";
+        content: "";
         display: block !important;
         position: absolute;
         left: 9px;
